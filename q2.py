@@ -7,4 +7,5 @@ def check_even_odd():
     else:
         print(f"{number} is odd.")
 
+
 check_even_odd()
